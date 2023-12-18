@@ -6,7 +6,7 @@ subtitle: SERB-DST Project CRG/2021/000803 sponsored by the Department of Scienc
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: combined_logo.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>Indian Association for the Cultivation of Science, Kolkata</p>
